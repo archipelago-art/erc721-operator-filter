@@ -11,7 +11,7 @@
     "prettier:check": "npm run prettier -- --check",
     "prettier:write": "npm run prettier -- --write"
   },
-  "author": "",
+  "author": "Archipelago Art Corporation",
   "license": "MIT",
   "dependencies": {
     "@openzeppelin/contracts": "^4.6.0",
