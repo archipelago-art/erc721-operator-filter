@@ -1,4 +1,5 @@
 require("@nomiclabs/hardhat-waffle");
+require("solidity-coverage");
 
 // https://hardhat.org/config/
 
